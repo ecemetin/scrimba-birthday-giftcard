@@ -60,7 +60,10 @@ p {
     background-image: url("images/gift-cover.jpg");
     background-size: cover;
 }
-.gift-img:hover {
-    background: url(images/img-happy.gif) no-repeat;
-    background-size:cover;
+#gift-img-happy:hover {
+    background-image: url("images/img-happy.gif");
+}
+
+#gift-img-hot:hover {
+    background-image: url("images/img-hot.gif");
 }
