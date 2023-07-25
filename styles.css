@@ -67,3 +67,6 @@ p {
 #gift-img-hot:hover {
     background-image: url("images/img-hot.gif");
 }
+#gift-img-genius:hover {
+    background-image: url("images/genius.gif");
+}
