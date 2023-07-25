@@ -80,3 +80,10 @@ p {
   background-image: url("images/badass.gif");
   background-size:auto;
 }
+#gift-img-cheers:hover {
+    background-image: url("images/cheers.gif");
+
+}
+#gift-img-cheers {
+    height: 200px;
+}
