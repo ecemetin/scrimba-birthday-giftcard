@@ -59,14 +59,23 @@ p {
     border-radius: 10px;
     background-image: url("images/gift-cover.jpg");
     background-size: cover;
+    cursor:pointer;
 }
 #gift-img-happy:hover {
     background-image: url("images/img-happy.gif");
+    
+
 }
 
 #gift-img-hot:hover {
     background-image: url("images/img-hot.gif");
+
 }
 #gift-img-genius:hover {
     background-image: url("images/genius.gif");
+
+}
+#gift-img-badass:hover {
+  background-image: url("images/badass.gif");
+  background-size:auto;
 }
