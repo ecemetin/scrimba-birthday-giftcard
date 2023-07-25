@@ -53,6 +53,7 @@ p {
     margin-top: 0;
 }
 .gift-img {
+   margin: 20px auto;
     width: 400px;
     height: 400px;
     border: 6px solid white;
